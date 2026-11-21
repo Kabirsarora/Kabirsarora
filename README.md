@@ -1,8 +1,7 @@
-<div align="center">
-
-<img src="assets/phantom-spider.svg" alt="Hunter x Hunter Phantom Troupe inspired banner with an original crimson spider emblem" width="100%">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/spider-dark.gif">
+  <img src="assets/spider-light.gif" alt="Animated Phantom Troupe-inspired crimson spider banner; Computer Science, Machine Learning, and Statistics at UMD" width="100%">
+</picture>
 
 > **DOSSIER** · UMD Computer Science · Machine Learning + Statistics · Open to SWE, AI/ML, robotics, and data science opportunities
 
