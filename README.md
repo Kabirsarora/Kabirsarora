@@ -3,7 +3,6 @@
   <img src="assets/spider-light.gif" alt="Animated Phantom Troupe-inspired crimson spider banner; Computer Science, Machine Learning, and Statistics at UMD" width="100%">
 </picture>
 
-> **DOSSIER** · UMD Computer Science · Machine Learning + Statistics · Open to SWE, AI/ML, robotics, and data science opportunities
 
 ## About
 
