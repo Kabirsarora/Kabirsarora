@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Kabir Arora — Computer Science, Machine Learning, Robotics</title><desc id="desc">A clean pale blue profile banner with a schematic linking software, machine learning, and robotics.</desc>
+<rect width="1200" height="260" rx="18" fill="#f6f8fa"/><path d="M0 213H1200" stroke="#d0d7de"/>
+<circle cx="1018" cy="118" r="90" fill="#fff" stroke="#d0d7de"/><circle cx="1018" cy="118" r="54" fill="none" stroke="#0969da" stroke-width="2" opacity=".75"/><circle cx="1018" cy="118" r="25" fill="#0969da"/>
+<g fill="#fff" stroke="#0550ae" stroke-width="2"><circle cx="1018" cy="28" r="7"/><circle cx="1096" cy="73" r="7"/><circle cx="1096" cy="163" r="7"/><circle cx="1018" cy="208" r="7"/><circle cx="940" cy="163" r="7"/><circle cx="940" cy="73" r="7"/></g>
+<g stroke="#0969da" opacity=".45"><path d="M1018 35v58M1089 77l-51 29M1089 159l-51-29M1018 201v-58M947 159l51-29M947 77l51 29"/></g>
+<text x="64" y="67" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" letter-spacing="3">UNIVERSITY OF MARYLAND · COMPUTER SCIENCE</text>
+<text x="62" y="132" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="54" font-weight="700">Kabir Arora</text>
+<text x="65" y="174" fill="#424a53" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21">Machine Learning  /  Statistics  /  Robotics</text>
+<text x="64" y="241" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" letter-spacing="1.5">BUILDING SOFTWARE THAT CONNECTS IDEAS TO THE REAL WORLD</text>
+</svg>
