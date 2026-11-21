@@ -1,15 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img alt="Hunter Exam field dossier for Kabir Arora, University of Maryland computer science student focused on machine learning, statistics, and robotics" src="assets/profile-light.svg" width="100%">
+  <img alt="Kabir Arora profile banner with a dark charcoal, burgundy, and scarlet dossier design" src="assets/profile-light.svg" width="100%">
 </picture>
 
-> **FIELD NOTE** · Computer Science @ UMD · Machine Learning + Statistics · Exploring SWE, AI/ML, robotics, and data science
+> **DOSSIER** · Computer Science @ UMD · Machine Learning + Statistics · Exploring SWE, AI/ML, robotics, and data science
 
-## Candidate profile
+## About
 
 I'm studying Computer Science at the University of Maryland, College Park, specializing in Machine Learning and double majoring in Statistics (expected 2028). I like building practical systems across software, AI, and robotics, and I'm always open to a new challenge and learning something new.
 
-## Selected missions
+## Selected work
 
 | Project | Specialty | Field notes |
 |:--|:--|:--|
@@ -18,13 +18,13 @@ I'm studying Computer Science at the University of Maryland, College Park, speci
 | Underwater robotics & computer vision | Robotics | Fish-classification workflows, camera processing, and software-controlled aquatic robot systems |
 | [Resume Studio](https://github.com/Kabirsarora/Resume-analyzer-project) | Python · AI | Resume feedback and job-specific tailoring with Flask |
 
-## Field metrics
+## Selected impact
 
 | Multiplayer systems | Computer vision | Robotics |
 |:--:|:--:|:--:|
 | **150+** early players on Deuces Arena | **88%** fish-classification accuracy on a held-out dataset | **<100 ms** robot command latency |
 
-## Toolkit
+## Technical toolkit
 
 **Languages** · Java · Python · JavaScript · TypeScript · C · OCaml · Rust · HTML/CSS  
 **Frameworks & libraries** · React · Next.js · Express · Socket.IO · Flask · Django · OpenCV · NumPy · pandas · scikit-learn  
