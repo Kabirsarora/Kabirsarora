@@ -1,8 +1,4 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/7d/f4/11/7df4112a828216847f0663c70d18605d.jpg">
-  <img src="https://staticg.sportskeeda.com/editor/2023/06/00589-16873323877420.png" alt="Phantom Troupe spider emblem from Hunter × Hunter" width="190">
-</picture>
 
 # Kabir Arora
 
@@ -12,8 +8,6 @@ University of Maryland, College Park
 [![Software Engineering](https://img.shields.io/badge/Software-Engineering-8b5cf6?style=flat-square)](https://github.com/Kabirsarora?tab=repositories)
 [![Machine Learning](https://img.shields.io/badge/Machine-Learning-ec4899?style=flat-square)](https://github.com/Kabirsarora?tab=repositories)
 [![Robotics](https://img.shields.io/badge/Robotics-Computer%20Vision-06b6d4?style=flat-square)](https://github.com/Kabirsarora?tab=repositories)
-
-<sub>Fan-art emblem: <a href="https://www.sportskeeda.com/anime/what-is-the-phantom-troupe-in-hunter-x-hunter">Sportskeeda</a> · dark-mode variation: <a href="https://www.pinterest.com/pin/phantom-troupe-spider-logo--135952482491964279/">Pinterest source</a></sub>
 
 </div>
 
